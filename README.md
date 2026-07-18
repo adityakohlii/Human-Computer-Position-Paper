@@ -23,7 +23,7 @@ This is a **position paper** — it proposes a theoretical framework, system arc
 
 ## Contents
 
-- `Cognitive_Coupling_Position_Paper.docx` — full paper
+- `Cognitive_Coupling_Position_Paper.pdf` — full paper
 - `architecture_diagram.png` — Figure 1: six-layer system architecture, annotated by feasibility
 - `latency_simulation.png` — Figure 2: Monte Carlo latency distribution
 - `simulate_latency.py` — simulation source code (reproducible; parameters and citations documented in-line)
